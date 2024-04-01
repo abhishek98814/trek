@@ -1,0 +1,41 @@
+.activeLink {
+    background-color: blue;
+    /* font-size: 5rem; */
+}
+
+.textcolorr {
+    color: #1E1E1E;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.hoverBackgorund {
+    color: #e6e6e6;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+    /* optional: just make scrollbar invisible */
+}
+
+/* Apply the font family to your elements */
+/* li {
+    font-family: 'Poppins';
+} */
+/* li{
+hover:text-dak;
+} */
+.mainpage-color {
+    background-color: #F1F4F7;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-270deg);
+    }
+}
